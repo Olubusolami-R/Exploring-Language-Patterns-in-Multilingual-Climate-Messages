@@ -1,6 +1,6 @@
 # Exploring Language Patterns in Multilingual Climate Messages
 ## Overview
-During the LUNE-TWO Fellowship, I co-created a multilingual dataset of climate messages in English, Yoruba, Hausa, and Igbo alongside 2 linguists. I wanted to see what more could be learned from it, so I ran an experiment: what happens when we cluster these messages using embeddings?
+During the LUNE-TWO Fellowship, I co-created a [multilingual dataset](https://github.com/Olubusolami-R/multilingual-climate-messaging-dataset) of climate messages in English, Yoruba, Hausa, and Igbo alongside 2 linguists. I wanted to see what more could be learned from it, so I ran an experiment: what happens when we cluster these messages using embeddings?
 This project is my exploration of that question.
 
 ## What I Did
